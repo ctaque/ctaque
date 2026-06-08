@@ -1,3 +1,1 @@
-[![Cyprien's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ctaque&theme=react-dark)](https://github.com/ctaque)
-
-![Activity Graph](https://github-readme-activity-graph-six-chi.vercel.app/graph?username=ctaque&theme=react-dark)
+![Activity Graph](https://camo.githubusercontent.com/f5dfef57a191c80a68f613bed545280099b92ffbf9ebc2c0d70f5abc666342eb/68747470733a2f2f6769746875622d726561646d652d61637469766974792d67726170682d7369782d6368692e76657263656c2e6170702f67726170683f757365726e616d653d637461717565267468656d653d72656163742d6461726b)
